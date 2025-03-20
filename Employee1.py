@@ -23,7 +23,6 @@ class Employee:
             worked_days = 20
         elif month == 'June':
             worked_days = 21
-        elif
             
         return(print(position*salary*worked_days))
 
